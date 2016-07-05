@@ -1,0 +1,6 @@
+Reproducible research works_with_R
+
+Source code for my useR2016 poster.
+- [[http://schedule.user2016.org/event/7Gxq/reproducible-research-workswithr][Abstract on useR2016 schedule site]].
+- [[file:HOCKING-works-poster.pdf][Poster PDF]] and [[file:HOCKING-works-poster.sla][source file]], created with [[https://www.scribus.net/][Scribus]].
+- [[file:works_with.R][works_with_R source code]] which I put in my [[https://github.com/tdhock/dotfiles/blob/master/.Rprofile][.Rprofile]].
